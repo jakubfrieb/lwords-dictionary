@@ -1,10 +1,12 @@
 Czech word list (words.txt) for LWords
-Copyright 2026 Jakub Frieb - licensed CC BY-SA 4.0,
+Copyright 2026 kubabit (at) digitalmind.cz - licensed CC BY-SA 4.0,
 https://creativecommons.org/licenses/by-sa/4.0/ (see ../../LICENSE)
 
 Adapted from: Universal Dependencies 2.18 treebanks UD_Czech-CAC, UD_Czech-CLTT and UD_Czech-PUD
-(CC BY-SA 4.0); ranked with wordfreq 3.1.1 by Robyn Speer et al. (CC BY-SA 4.0, incl.
+(CC BY-SA 4.0) and Czech common nouns of the English Wiktionary (c) Wiktionary contributors,
+via kaikki.org / wiktextract (CC BY-SA 4.0); ranked with wordfreq 3.1.1 by Robyn Speer et al. (CC BY-SA 4.0, incl.
 SUBTLEX by Marc Brysbaert et al. - freely available data - and OpenSubtitles 2018).
-Changes: selected base forms of 3-8 letters, filtered (proper nouns, abbreviations,
+Changes: selected common nouns in the base form (nominative singular) of 3-8 letters, filtered (proper nouns, abbreviations,
 offensive words removed), upper-cased, ordered by frequency (line = rank).
+A few committee-approved common nouns (own selection, appended at the end) were added.
 No frequency values are included. Full source credits: ../../NOTICE

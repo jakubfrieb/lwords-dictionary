@@ -1,10 +1,12 @@
 English word list (words.txt) for LWords
-Copyright 2026 Jakub Frieb - licensed CC BY-SA 4.0,
+Copyright 2026 kubabit (at) digitalmind.cz - licensed CC BY-SA 4.0,
 https://creativecommons.org/licenses/by-sa/4.0/ (see ../../LICENSE)
 
 Adapted from: 12dicts (2of12id, 3esl, abbr) by Alan Beale and ENABLE - public domain;
 ranked with wordfreq 3.1.1 by Robyn Speer et al. (CC BY-SA 4.0, incl. SUBTLEX by
-Marc Brysbaert et al. - freely available data - and OpenSubtitles 2018).
-Changes: selected base forms of 3-8 letters, filtered (proper nouns, abbreviations,
+Marc Brysbaert et al. - freely available data - and OpenSubtitles 2018); parts of speech
+from the Universal Dependencies 2.18 treebank UD_English-EWT (CC BY-SA 4.0).
+Changes: selected common nouns in the base form (singular) of 3-8 letters, filtered (proper nouns, abbreviations,
 offensive words removed), upper-cased, ordered by frequency (line = rank).
+A few committee-approved common nouns (own selection, appended at the end) were added.
 No frequency values are included. Full source credits: ../../NOTICE

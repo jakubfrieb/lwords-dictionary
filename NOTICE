@@ -1,5 +1,5 @@
 LWords dictionary & level data
-Copyright 2026 Jakub Frieb
+Copyright 2026 kubabit (at) digitalmind.cz
 Licensed under Creative Commons Attribution-ShareAlike 4.0 International
 (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/ - see LICENSE.
 
@@ -7,7 +7,8 @@ The files in levels/ and wordlists/ are an adaptation of the material listed
 below. Changes made: words were selected, filtered (proper nouns,
 abbreviations, foreign words, offensive words removed), converted to upper
 case, ranked by frequency and combined into puzzle levels. No frequency values
-are included.
+are included. A few words (EN 91, CS 20) were added by a committee of AI reviewers
+from general vocabulary; they are our own selection and need no further credit.
 
 1. wordfreq 3.1.1
    Robyn Speer et al., https://github.com/rspeer/wordfreq
@@ -30,6 +31,8 @@ are included.
 
 2. Universal Dependencies, release 2.18, https://universaldependencies.org/
    Licensed CC BY-SA 4.0.
+   - UD_English-EWT - Natalia Silveira, Timothy Dozat, Marie-Catherine de Marneffe et al.
+     https://github.com/UniversalDependencies/UD_English-EWT (used for parts of speech)
    - UD_Czech-CAC  - Barbora Hladká, Daniel Zeman
      https://github.com/UniversalDependencies/UD_Czech-CAC
    - UD_Czech-CLTT - Barbora Hladká, Daniel Zeman, Martin Popel
@@ -47,3 +50,12 @@ are included.
 
 4. ENABLE word list (enable1) - public domain.
    Used for: English spelling check.
+
+5. Wiktionary (English edition), https://en.wiktionary.org/
+   Copyright Wiktionary contributors. Licensed CC BY-SA 4.0 (also GFDL; used here
+   under CC BY-SA 4.0).
+   Czech entries as extracted by kaikki.org / wiktextract (Tatu Ylonen,
+   "Wiktextract: Wiktionary as Machine-Readable Structured Data", LREC 2022),
+   https://kaikki.org/dictionary/Czech/ - dump file dated 2026-10-03.
+   Used for: Czech common nouns (headwords, part of speech, usage tags, inflected
+   forms for frequency ranking), added to the UD lemmas.

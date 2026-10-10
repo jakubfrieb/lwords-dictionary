@@ -1,6 +1,6 @@
 # LWords – Credits & licences
 
-LWords © 2026 Jakub Frieb. Full licence texts and the level data:
+LWords © 2026 kubabit (at) digitalmind.cz. Full licence texts and the level data:
 https://github.com/jakubfrieb/lwords-dictionary
 
 ## Font
@@ -30,11 +30,17 @@ licensed under **CC BY-SA 4.0** (https://creativecommons.org/licenses/by-sa/4.0/
   -CH, -DE, -NL) created by **Marc Brysbaert et al.** – SUBTLEX is freely available data,
   http://crr.ugent.be/programs-data/subtitle-frequencies.
 - **Universal Dependencies 2.18** (https://universaldependencies.org/), CC BY-SA 4.0 – Czech
-  lemmas and parts of speech:
+  lemmas and parts of speech, English parts of speech (noun filter):
+  - UD_English-EWT – Natalia Silveira, Timothy Dozat, Marie-Catherine de Marneffe, Samuel Bowman,
+    Miriam Connor, John Bauer, Christopher D. Manning et al.
   - UD_Czech-CAC – Barbora Hladká, Daniel Zeman
   - UD_Czech-CLTT – Barbora Hladká, Daniel Zeman, Martin Popel
   - UD_Czech-PUD – Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová,
     Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman
+- **Wiktionary** (English edition, https://en.wiktionary.org) © Wiktionary contributors,
+  CC BY-SA 4.0 – Czech common nouns (headwords, usage tags, inflected forms), as extracted by
+  **kaikki.org / wiktextract** (Tatu Ylonen, *Wiktextract: Wiktionary as Machine-Readable
+  Structured Data*, LREC 2022), https://kaikki.org/dictionary/Czech/ (dump dated 2026-10-03).
 - **12dicts** (2of12id, 3esl, abbr; alt12dicts 2020.12.07) by Alan Beale – public domain,
   http://wordlist.aspell.net/12dicts/ (English headwords and word filtering).
 - **ENABLE** (enable1) word list – public domain (English spell check).
@@ -49,7 +55,8 @@ Original artwork created for LWords (AI-assisted, edited by the author).
 Font: Rubik © 2015 The Rubik Project Authors, SIL Open Font License 1.1.
 Word data adapted from wordfreq by Robyn Speer et al. (incl. SUBTLEX by
 M. Brysbaert et al., OpenSubtitles, Wikipedia, Google Books Ngrams) and the
-Universal Dependencies Czech-CAC, Czech-CLTT and Czech-PUD treebanks –
+Universal Dependencies Czech-CAC, Czech-CLTT, Czech-PUD and English-EWT
+treebanks and Wiktionary (Wiktionary contributors, via kaikki.org) –
 CC BY-SA 4.0; 12dicts by Alan Beale and ENABLE – public domain.
 Level data: CC BY-SA 4.0 – github.com/jakubfrieb/lwords-dictionary
 ```
