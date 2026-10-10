@@ -10,7 +10,7 @@ not part of this repository.
 ```
 levels/en/levels_en_1.json … levels_en_4.json   English levels (4 tiers × 15)
 levels/cs/levels_cs_1.json … levels_cs_4.json   Czech levels (4 tiers × 15)
-wordlists/en/words.txt                          derived English word list (11 278 words)
+wordlists/en/words.txt                          derived English word list (11 275 words)
 wordlists/cs/words.txt                          derived Czech word list (13 319 lemmas)
 fonts/OFL.txt                                   licence of the Rubik font used in the app
 CREDITS.md                                      full credits of the app
